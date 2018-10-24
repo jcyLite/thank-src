@@ -28,6 +28,9 @@ import 'cube-ui/lib/style';
  * use module witch needed will make project more litely
  * */
 
-
-
+/*
+ * Thank ui has a github in https://
+ * */
+import Thank from 'thank-ui'
+Vue.use(Thank)
 
